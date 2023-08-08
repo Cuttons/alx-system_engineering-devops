@@ -1,0 +1,2 @@
+#!/bin/bash
+alias_command="echo 'Hello, World!'"
